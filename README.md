@@ -1,6 +1,8 @@
 # Distributed-Hash-Table
 
-Implementation of a simple DHT based on simplified Chord. It does not handle node leaves/failures. There are three main pieces: 
+Implementation of a simple DHT based on simplified Chord. It does not handle node leaves/failures. 
+
+There are three main pieces: 
 
 1) ID space partitioning/re-partitioning
 
