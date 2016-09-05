@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/bolt/AndroidStudioProjects/SimpleDht/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/bat.png",
+        "source": "/Users/bolt/AndroidStudioProjects/SimpleDht/app/src/main/res/drawable-ldpi/bat.png"
+    },
+    {
+        "merged": "/Users/bolt/AndroidStudioProjects/SimpleDht/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/bolt/AndroidStudioProjects/SimpleDht/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
